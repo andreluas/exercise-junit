@@ -45,22 +45,22 @@ Há ainda uma regra: o valor da prestação não pode ser maior que metade da re
 <br>
 
 ## setIncome
-- [ ] Deve atualizar o valor quando os dados forem válidos
-- [ ] Deve lançar IllegalArgumentException quando os dados não forem válidos
+- [x] Deve atualizar o valor quando os dados forem válidos
+- [x] Deve lançar IllegalArgumentException quando os dados não forem válidos
 
 <br>
 
 ## setMonths
-- [ ] Deve atualizar o valor quando os dados forem válidos
-- [ ] Deve lançar IllegalArgumentException quando os dados não forem válidos
+- [x] Deve atualizar o valor quando os dados forem válidos
+- [x] Deve lançar IllegalArgumentException quando os dados não forem válidos
 
 <br>
 
 ## entry
-- [ ] Deve calcular corretamente o valor da entrada
+- [x] Deve calcular corretamente o valor da entrada
 
 <br>
 
 ## quota
-- [ ] Deve calcular corretamente o valor da prestação
+- [x] Deve calcular corretamente o valor da prestação
 </ul>
